@@ -22,7 +22,7 @@ A proposta e inspiração é ter as mesmas funcionalidades do Tinder (aplicativo
 
 ## ✒ To Do
 - [ ] Area de chate entre os personagens
-- [ ] Adicionar mais informações no perfil, como foto e idade
+- [ ] adicionar mais informações no perfil, como foto e idade
 
 ## 🛠 Tech
 As seguintes ferramentas foram utilizadas na construção do projetos:
