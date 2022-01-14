@@ -12,7 +12,7 @@ Astromatch é um projeto de desenvolvimento e integração de JavaScript em Reac
 A proposta e inspiração é ter as mesmas funcionalidades do Tinder (aplicativo de paquera).
 
 ## 🔗 Link Surge
-+ <a target="_blank" href="https://shaky-toys.surge.sh/">ASTROMATCH</
++ <a target="_blank" href="https://shaky-toys.surge.sh/">ASTROMATCH</a>
 
 ## 💡 Functionalities
 - [x] Area para inserir seu nome.
@@ -22,7 +22,7 @@ A proposta e inspiração é ter as mesmas funcionalidades do Tinder (aplicativo
 
 ## ✒ To Do
 - [ ] Area de chate entre os personagens
-- [ ] adicionar mais informações no perfil, como foto e idade
+- [ ] Adicionar mais informações no perfil, como foto e idade
 
 ## 🛠 Tech
 As seguintes ferramentas foram utilizadas na construção do projetos:
@@ -34,13 +34,12 @@ As seguintes ferramentas foram utilizadas na construção do projetos:
 ## 📥 Install 
 Faça um clone desse repositório e acesse o diretório.
 ```
-$ git clone https://github.com/gpazini/labe-x.git
+$ git clone https://github.com/gpazini/astromach.git
 ```
 ```
 # Instalando as dependências
 $ npm install styled-components
 $ npm install axios
-$ npm install react-router-dom@5.3
 ```
 ```
 # Executanto aplicação
